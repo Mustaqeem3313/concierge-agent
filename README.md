@@ -53,20 +53,11 @@ concierge-agent/
 │─ requirements.txt
 └─ README.md
 
-🧩 Future Enhancements
 
-🔔 Notification engine for due tasks
-
-📆 Google Calendar integration
-
-🔎 Task filtering / sorting
-
-⚡ Priority system (High/Med/Low)
-
-🌐 Full deployment + public link
 
 👤 Author
 
 Mustaqeem Shaikh
 AI & Data Engineering Enthusiast
+
 📍 Pune, India
